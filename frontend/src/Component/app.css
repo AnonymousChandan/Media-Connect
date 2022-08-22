@@ -1,0 +1,150 @@
+.container{
+    display: flex;
+    position: relative;
+}
+.btn{
+    position:relative;
+    top: 300px;
+    padding-left: 80px;
+}
+.btn h1{
+    color: green;
+    font-size:50px;
+    font-weight: lighter;
+}
+.btn button{
+    height: 40px;
+    width: 80px;
+    color: green;
+    border-radius: 10px;
+    position: relative;
+    left: 90px;
+    border-color: green;
+    background-color: white;
+}
+.nav{
+    position: relative;
+    width: 920px;
+    height: 60px;
+    top: 25px;
+    border-bottom: 2px  solid gray;
+    opacity: 1px;
+}
+.camera{
+    height: 30px;
+    position: relative;
+    float: right;
+    padding-right: 25px;
+}
+.icon{
+    position: relative;
+    bottom: 10px;
+    height: 50px;
+}
+.clone{
+    position: absolute;
+    left: 55px;
+    bottom: 4px;
+    color: green;
+    font-weight: lighter;
+    font-size:xx-large;
+}
+#filetype{
+    border: 2px solid gray;
+    width: 400px;
+    margin-bottom: 15px;
+}
+#discription{
+    width: 400px;
+    margin-top: 15px;
+}
+#author{
+    margin-right: 60px;
+}
+.main{
+    border: 1px solid gray;
+    width: 450px;
+    height: 170px;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    border-radius: 5px;
+}
+.forma{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+button{
+    position: absolute;
+    left: 150px;
+    margin-top: 15px;
+    width:70px;
+}
+.mainData{
+    margin: 50px 0px 10px 200px;
+    border: 1px solid gray;
+    height: 450px;
+    width: 500px;
+    position: relative;
+    border-radius: 9px;
+}
+.autor{
+    position: absolute;
+    top: 10px;
+    font-weight: bold;
+    left: 10px;
+}
+.locate{
+    opacity: 50%;
+    position: absolute;
+    top: 25px;
+    left: 10px;
+}
+.selfie{
+    height: 300px;
+    width: 500px;
+    margin-top: 60px;
+}
+.disc{
+    position: absolute;
+    bottom: 20px;
+    font-weight: bold;
+    left: 10px;
+}
+.dots{
+    position: absolute;
+    float: right;
+    right: 10px;
+    top: 20px;
+}
+.date{
+    position:absolute;
+    right: 15px;
+    top: 380px;
+}
+.heart{
+    display: flex;
+    /* justify-content:space-around; */
+}
+.hea{
+    position: absolute;
+    height: 20px;
+    margin-right: 5px;
+    left: 10px;
+}
+.share{
+    height: 20px;
+    position: absolute;
+    left: 40px;
+}
+p{
+    opacity: 50%;
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+}
+.body{
+    position: absolute;
+    left: 200px;
+}
